@@ -1,49 +1,51 @@
-<h1>Python Project</h1>
+<h1>Python Projects</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This repository showcases a few of my beginner-level Python projects as I continue my journey in programming and cybersecurity. Each project highlights different concepts and skills I've explored, with a focus on learning and growth.
+
+Feel free to browse through the screenshots and dive into the code! Your feedback is always welcome as I aim to improve and tackle more complex challenges.
+
+Happy coding! 🚀
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Language</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>PYTHON</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>PyCharm_Community</b>
 
-<h2>Program walk-through:</h2>
+<h2>Programs Screenshots</h2>
 
 <p align="center">
 Create a little Quizz about Capitals: <br/>
-<img src="https://imgur.com/4MKAzwZ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://imgur.com/4MKAzwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://imgur.com/2NzfXTd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a little program to cook eggs :  <br/>
+<br />
+<img src="https://imgur.com/2NzfXTd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a converter cm <--> inch : <br/>
+<br />
+<img src="https://imgur.com/UAv5qig.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Thank you for visiting !
+ 
+These projects are just the beginning of my Python programming journey. Stay tuned as I continue to learn, grow, and add more exciting projects. If you'd like to connect or share feedback, don't hesitate to reach out!
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<strong>Happy coding ! 🐍✨<strong>
 <br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 
 <!--
  ```diff
